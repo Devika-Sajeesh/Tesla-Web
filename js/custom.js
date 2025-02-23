@@ -162,7 +162,7 @@ document.addEventListener("DOMContentLoaded", function () {
     observer.observe(document.querySelector(".stats-container"));
 });
 /*countdown*/
-/*document.addEventListener("DOMContentLoaded", function () {
+document.addEventListener("DOMContentLoaded", function () {
     function startCountdown(targetDate) {
         function updateCountdown() {
             const now = new Date().getTime();
@@ -192,7 +192,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // Set the target date (YYYY, MM-1, DD, HH, MM, SS)
     const eventDate = new Date(2025, 2, 14, 0, 0, 0).getTime(); // Example: March 25, 2025, at 6:00 PM
     startCountdown(eventDate);
-});*/
+});
 
 
 	// SMOOTH SCROLL
