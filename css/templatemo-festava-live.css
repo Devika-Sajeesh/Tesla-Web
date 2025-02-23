@@ -415,7 +415,7 @@ body {
 @media (max-width: 600px) {
   .time-box {
       font-size: 18px;
-      padding: 30px;
+      padding: 5px;
       min-width: 50px;
   }
 }
